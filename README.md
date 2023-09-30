@@ -1,2 +1,2 @@
 Today I Learned<br>
-学習記録
+RUNTEQのtimesで書いている学習記録をこちらにも載せています。
